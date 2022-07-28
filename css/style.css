@@ -342,6 +342,7 @@ span{
 	color: #eee;
 	padding: 1rem 0;
 	font-weight: normal;
+	text-transform: none;
 }
 
 .contact .row .contact .info h3 i{
@@ -350,11 +351,9 @@ span{
 }
 
 .contact .row form .btn i{
-	color:var(--blue);
-}
-.contact .row form .btn i:hover{
 	color: #fff;
 }
+
 
 
 
